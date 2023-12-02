@@ -201,3 +201,4 @@
 0502. 📚 docs: update README with setup steps
 0949. 📚 docs: write FAQ section
 0391. 🐛 fix: fix null pointer exception on login
+0632. 🎨 style: remove trailing whitespace
