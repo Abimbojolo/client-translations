@@ -3,3 +3,4 @@
 0242. ♻️ chore: clean up unused files
 0320. 📚 docs: update README with setup steps
 0110. 🐛 fix: prevent crash on empty input
+0715. ✨ feat: create admin dashboard
