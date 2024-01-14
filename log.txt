@@ -402,3 +402,4 @@
 0859. ✨ feat: create admin dashboard
 0237. 🎨 style: standardize quote style
 0158. 📚 docs: clarify environment setup
+0330. ✅ test: test user registration edge cases
