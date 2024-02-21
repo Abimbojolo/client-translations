@@ -23,3 +23,4 @@
 0638. 📚 docs: improve code comments in utils
 0657. 🎨 style: standardize quote style
 0584. 🚀 perf: lazy-load components
+0848. 📚 docs: update README with setup steps
