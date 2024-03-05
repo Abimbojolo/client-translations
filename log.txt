@@ -24,3 +24,4 @@
 0331. 🐛 fix: fix broken CSS in mobile view
 0822. 🔧 refactor: remove redundant code blocks
 0558. ✨ feat: enable dark mode toggle
+0118. 🚀 perf: reduce image load time
