@@ -423,3 +423,4 @@
 0437. 📚 docs: clarify environment setup
 0203. 🚀 perf: lazy-load components
 0566. 📚 docs: write FAQ section
+0828. ♻️ chore: add GitHub actions badge
