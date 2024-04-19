@@ -427,3 +427,4 @@
 0028. 🎨 style: standardize quote style
 0338. ♻️ chore: add GitHub actions badge
 0997. ✅ test: increase coverage on auth module
+0898. 🐛 fix: fix broken CSS in mobile view
