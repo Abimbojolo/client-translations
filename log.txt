@@ -43,3 +43,4 @@
 0462. ♻️ chore: update .gitignore
 0323. 📚 docs: clarify environment setup
 0326. 🚀 perf: cache repeated calculations
+0725. 🚀 perf: lazy-load components
