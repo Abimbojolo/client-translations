@@ -51,3 +51,4 @@
 0933. 📚 docs: clarify environment setup
 0157. ✅ test: mock database connection in test suite
 0587. 🔧 refactor: remove redundant code blocks
+0246. ✅ test: add integration test for /submit endpoint
