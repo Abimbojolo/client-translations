@@ -434,3 +434,4 @@
 0383. 🐛 fix: fix broken CSS in mobile view
 0320. 📚 docs: update README with setup steps
 0309. 🔧 refactor: refactor quiz grading logic
+0609. 🐛 fix: handle 500 error in quiz API
