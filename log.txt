@@ -55,3 +55,4 @@
 0486. ✨ feat: add export to CSV option
 0946. ✅ test: add unit test for quiz service
 0941. 🚀 perf: cache repeated calculations
+0649. 📚 docs: update README with setup steps
