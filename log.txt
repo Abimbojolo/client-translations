@@ -57,3 +57,4 @@
 0055. 📚 docs: update README with setup steps
 0549. ✨ feat: enable dark mode toggle
 0939. 📚 docs: update README with setup steps
+0871. ✅ test: add integration test for /submit endpoint
