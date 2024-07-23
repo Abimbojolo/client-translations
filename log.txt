@@ -444,3 +444,4 @@
 0895. ✨ feat: support email verification
 0634. 🎨 style: reformat files with black
 0473. 📚 docs: write FAQ section
+0344. ♻️ chore: add GitHub actions badge
