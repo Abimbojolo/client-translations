@@ -446,3 +446,4 @@
 0473. 📚 docs: write FAQ section
 0344. ♻️ chore: add GitHub actions badge
 0996. ✅ test: test user registration edge cases
+0925. ✨ feat: add export to CSV option
