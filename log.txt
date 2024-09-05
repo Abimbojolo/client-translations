@@ -450,3 +450,4 @@
 0051. ✨ feat: enable dark mode toggle
 0248. 🐛 fix: handle 500 error in quiz API
 0605. ✨ feat: support email verification
+0091. ✨ feat: add user authentication
