@@ -72,3 +72,4 @@
 0008. 🚀 perf: reduce image load time
 0843. 📚 docs: document token refresh logic
 0817. 🔧 refactor: remove redundant code blocks
+0053. ✅ test: increase coverage on auth module
