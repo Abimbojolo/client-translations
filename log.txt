@@ -85,3 +85,4 @@
 0939. 📚 docs: update README with setup steps
 0299. 🐛 fix: resolve issue with date parsing
 0277. 🎨 style: standardize quote style
+0506. 🐛 fix: handle 500 error in quiz API
