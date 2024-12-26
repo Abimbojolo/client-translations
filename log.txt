@@ -488,3 +488,4 @@
 0181. ♻️ chore: add GitHub actions badge
 0956. 📚 docs: clarify environment setup
 0451. ✨ feat: support email verification
+0673. 🐛 fix: correct typo in registration form
