@@ -107,3 +107,4 @@
 0765. ♻️ chore: clean up unused files
 0135. ✅ test: test user registration edge cases
 0334. 🚀 perf: cache repeated calculations
+0896. 🚀 perf: reduce image load time
