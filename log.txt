@@ -504,3 +504,4 @@
 0304. 🔧 refactor: remove redundant code blocks
 0230. ✨ feat: create admin dashboard
 0502. 📚 docs: update README with setup steps
+0208. 🔧 refactor: clean up auth middleware
