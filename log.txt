@@ -514,3 +514,4 @@
 0170. ✅ test: increase coverage on auth module
 0465. 🎨 style: rename variables for clarity
 0619. ✨ feat: create admin dashboard
+0265. 🎨 style: reformat files with black
