@@ -519,3 +519,4 @@
 0661. ✅ test: add integration test for /submit endpoint
 0914. ✅ test: test user registration edge cases
 0935. 📚 docs: update README with setup steps
+0353. ♻️ chore: rename env.example
