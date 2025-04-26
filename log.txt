@@ -129,3 +129,4 @@
 0132. ✅ test: add unit test for quiz service
 0033. 🎨 style: apply consistent indentation
 0210. 🎨 style: apply consistent indentation
+0592. 📚 docs: add API usage examples
