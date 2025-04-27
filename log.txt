@@ -522,3 +522,4 @@
 0353. ♻️ chore: rename env.example
 0861. ♻️ chore: clean up unused files
 0160. ♻️ chore: bump dependencies
+0408. ♻️ chore: add GitHub actions badge
