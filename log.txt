@@ -137,3 +137,4 @@
 0975. 🎨 style: apply consistent indentation
 0944. ✨ feat: add user authentication
 0203. 🚀 perf: lazy-load components
+0839. 🎨 style: apply consistent indentation
