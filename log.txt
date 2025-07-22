@@ -340,3 +340,4 @@
 0436. ✅ test: add integration test for /submit endpoint
 0591. ♻️ chore: clean up unused files
 0235. 🐛 fix: fix null pointer exception on login
+0933. 📚 docs: clarify environment setup
