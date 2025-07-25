@@ -545,3 +545,4 @@
 0121. ✨ feat: support email verification
 0672. 🐛 fix: fix broken CSS in mobile view
 0469. 🚀 perf: lazy-load components
+0124. 🎨 style: reformat files with black
