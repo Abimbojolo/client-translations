@@ -150,3 +150,4 @@
 0662. ♻️ chore: clean up unused files
 0415. 🐛 fix: handle 500 error in quiz API
 0028. 🎨 style: standardize quote style
+0676. 🐛 fix: prevent crash on empty input
