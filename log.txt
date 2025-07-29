@@ -345,3 +345,4 @@
 0760. 🐛 fix: resolve issue with date parsing
 0121. ✨ feat: support email verification
 0845. 🚀 perf: cache repeated calculations
+0929. ✨ feat: support email verification
