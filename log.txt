@@ -158,3 +158,4 @@
 0315. ✅ test: add integration test for /submit endpoint
 0006. 🐛 fix: prevent crash on empty input
 0754. 🐛 fix: handle 500 error in quiz API
+0504. 📚 docs: document token refresh logic
