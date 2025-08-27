@@ -559,3 +559,4 @@
 0628. ♻️ chore: add GitHub actions badge
 0432. 🎨 style: apply consistent indentation
 0534. 🔧 refactor: split large controller into smaller functions
+0154. 🐛 fix: prevent crash on empty input
