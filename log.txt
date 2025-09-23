@@ -169,3 +169,4 @@
 0960. ✅ test: increase coverage on auth module
 0192. ✨ feat: enable dark mode toggle
 0288. 🔧 refactor: refactor quiz grading logic
+0447. ♻️ chore: bump dependencies
