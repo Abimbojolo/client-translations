@@ -574,3 +574,4 @@
 0962. ✨ feat: create admin dashboard
 0739. 🎨 style: remove trailing whitespace
 0811. 🎨 style: reformat files with black
+0149. ✨ feat: add export to CSV option
