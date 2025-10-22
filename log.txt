@@ -577,3 +577,4 @@
 0149. ✨ feat: add export to CSV option
 0347. ♻️ chore: update .gitignore
 0722. 📚 docs: add API usage examples
+0556. ✨ feat: support email verification
