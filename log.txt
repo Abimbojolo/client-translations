@@ -189,3 +189,4 @@
 0748. 🚀 perf: optimize database query for quiz results
 0175. 📚 docs: add API usage examples
 0508. ✅ test: add unit test for quiz service
+0201. 🔧 refactor: clean up auth middleware
