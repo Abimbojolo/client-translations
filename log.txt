@@ -377,3 +377,4 @@
 0212. 🎨 style: standardize quote style
 0098. 🎨 style: rename variables for clarity
 0402. 🎨 style: reformat files with black
+0735. ♻️ chore: add GitHub actions badge
